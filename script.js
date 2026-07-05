@@ -8,7 +8,7 @@ const popupMsg = document.getElementById('popupMsg');
 
 let noScale = 1.0;
 let yesScale = 1.0;
-const nickname = "LISAH CAYAANG";
+const nickname = "ICAA";
 
 apologyCard.style.display = 'block';
 
